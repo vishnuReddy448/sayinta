@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  width: 400px;
+  margin-left: 50px;
+  border-radius: 25px;
+  border: 2px solid #1a0600;
+  padding: 20px; 
+}
+
+.row{
+  height: 100px;
+}
+.box{
+  height: 100px;
+  background-color: #1a0600;
+  width:100px;
+  float:left;
+  color: white;
+  top: 50%;
+  text-overflow: ellipsis;
+}
+
+
+input{
+  margin:10px;
+  border-radius: 10px;
+  border: 2px solid #1a0600;
+  padding: 3px; 
+}
